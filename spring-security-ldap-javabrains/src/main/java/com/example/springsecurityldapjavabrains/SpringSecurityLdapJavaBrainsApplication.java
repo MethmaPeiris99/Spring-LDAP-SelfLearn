@@ -10,4 +10,6 @@ public class SpringSecurityLdapJavaBrainsApplication {
         SpringApplication.run(SpringSecurityLdapJavaBrainsApplication.class, args);
     }
 
+
+
 }
